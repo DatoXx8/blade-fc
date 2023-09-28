@@ -1,5 +1,5 @@
 # Blade-fc
-Blade is a chess engine written purely in c and run on the CPU, though there will evetually be versions with cuda that support GPU computing. It is an attempt to see the effects of different training methods on the strength of the engine.
+Blade is a chess engine written purely in c and run on the CPU, though there will eventually be versions with cuda that support GPU computing. It is an attempt to see the effects of different training methods on the strength of the engine.
 For now the used neural network used is not convolutional, since I haven't had the time to implement those yet.
 # Moving forward
 Since the chess implementation is now finished I will now work on the implementation of convolutional neural networks.
